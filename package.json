@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.5.5",
-    "@bugsnag/react-native": "^7.11.0",
+    "@bugsnag/react-native": "^7.18.0",
     "@ecency/render-helper": "^2.1.24",
     "@esteemapp/dhive": "0.15.0",
     "@esteemapp/react-native-autocomplete-input": "^4.2.1",
