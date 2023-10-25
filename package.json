@@ -57,7 +57,7 @@
     "console-browserify": "^1.1.0",
     "constants-browserify": "^1.0.0",
     "core-js": "3.6.4",
-    "crypto-js": "^3.1.9-1",
+    "crypto-js": "^4.2.0",
     "currency-symbol-map": "^4.0.4",
     "diff-match-patch": "^1.0.4",
     "dns.js": "^1.0.1",
